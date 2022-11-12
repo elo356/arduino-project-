@@ -9,9 +9,9 @@ const int r = 25;
 const int g = 26;
 const int b = 27;
 int led = 4;
-char auth[] = "IUA7lFYIVl3xH6OrtJs3IED7Yy2_sW_h";
-char ssid[] ="ESR_5G";
-char passw[] = "worker55luck";
+char auth[] = "authentication key";
+char ssid[] ="Internet name";
+char passw[] = "Internet password";
 
 void setup() {
   pinMode(r, OUTPUT);
